@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.game.projekgame.controller.MonsterCollectionController">
+
+    <top>
+
+        <VBox alignment="CENTER">
+
+            <padding>
+                <Insets top="20"/>
+            </padding>
+
+            <Label text="🎒 MY MONSTER COLLECTION"
+                   styleClass="title-label"/>
+
+            <Label text="Battle Team Max 3 Monsters"
+                   style="-fx-text-fill:white;"/>
+        </VBox>
+
+    </top>
+
+    <center>
+
+        <VBox spacing="20"
+              alignment="CENTER">
+
+            <Label fx:id="teamLabel"
+                   style="-fx-font-size:18px;
+                          -fx-text-fill:white;
+                          -fx-font-weight:bold;"/>
+
+            <ScrollPane fitToWidth="true"
+                        prefHeight="500">
+
+                <content>
+
+                    <FlowPane fx:id="monsterContainer"
+                              hgap="20"
+                              vgap="20"
+                              prefWrapLength="1000"/>
+
+                </content>
+
+            </ScrollPane>
+
+            <Button fx:id="backButton"
+                    text="🏠 Back To Dashboard"
+                    onAction="#handleBack"/>
+
+        </VBox>
+
+    </center>
+
+</BorderPane>

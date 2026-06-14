@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.game.projekgame.controller.StarterMonsterController">
+
+    <top>
+
+        <VBox alignment="CENTER">
+
+            <padding>
+                <Insets top="25"/>
+            </padding>
+
+            <Label text="⚔ CHOOSE YOUR STARTER MONSTER ⚔"
+                   styleClass="title-label"/>
+
+        </VBox>
+
+    </top>
+
+    <center>
+
+        <HBox alignment="CENTER"
+              spacing="30">
+
+            <VBox alignment="CENTER"
+                  spacing="10"
+                  styleClass="login-card">
+
+                <padding>
+                    <Insets top="20" right="20" bottom="20" left="20"/>
+                </padding>
+
+                <Label text="🔥"/>
+                <Label text="Fire Dragon"/>
+                <Label text="HP : 120"/>
+                <Label text="ATK : 25"/>
+
+                <Button text="Select"
+                        onAction="#selectFireDragon"/>
+
+            </VBox>
+
+            <VBox alignment="CENTER"
+                  spacing="10"
+                  styleClass="login-card">
+
+                <padding>
+                    <Insets top="20" right="20" bottom="20" left="20"/>
+                </padding>
+
+                <Label text="💧"/>
+                <Label text="Water Turtle"/>
+                <Label text="HP : 150"/>
+                <Label text="ATK : 18"/>
+
+                <Button text="Select"
+                        onAction="#selectWaterTurtle"/>
+
+            </VBox>
+
+            <VBox alignment="CENTER"
+                  spacing="10"
+                  styleClass="login-card">
+
+                <padding>
+                    <Insets top="20" right="20" bottom="20" left="20"/>
+                </padding>
+
+                <Label text="⚡"/>
+                <Label text="Thunder Wolf"/>
+                <Label text="HP : 100"/>
+                <Label text="ATK : 30"/>
+
+                <Button text="Select"
+                        onAction="#selectThunderWolf"/>
+
+            </VBox>
+
+            <VBox alignment="CENTER"
+                  spacing="10"
+                  styleClass="login-card">
+
+                <padding>
+                    <Insets top="20" right="20" bottom="20" left="20"/>
+                </padding>
+
+                <Label text="🪨"/>
+                <Label text="Earth Golem"/>
+                <Label text="HP : 180"/>
+                <Label text="ATK : 15"/>
+
+                <Button text="Select"
+                        onAction="#selectEarthGolem"/>
+
+            </VBox>
+
+        </HBox>
+
+    </center>
+
+</BorderPane>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<StackPane xmlns:fx="http://javafx.com/fxml"
+           fx:controller="com.game.projekgame.controller.RegisterController">
+
+    <VBox alignment="CENTER"
+          spacing="25">
+
+        <Label text="CREATE ACCOUNT"
+               styleClass="title-label"/>
+
+        <VBox alignment="CENTER"
+              spacing="15"
+              styleClass="login-card"
+              maxWidth="380">
+
+            <padding>
+                <Insets top="30" right="30" bottom="30" left="30"/>
+            </padding>
+
+            <Label text="REGISTER" styleClass="card-title"/>
+
+            <TextField fx:id="usernameField" promptText="Username"/>
+            <PasswordField fx:id="passwordField" promptText="Password"/>
+            <PasswordField fx:id="confirmPasswordField" promptText="Confirm Password"/>
+
+            <Label fx:id="statusLabel" text="" style="-fx-text-fill: #e74c3c; -fx-font-weight: bold;"/>
+
+            <Button fx:id="registerButton" text="REGISTER" prefWidth="250" onAction="#handleRegister"/>
+
+            <Button fx:id="backButton" text="BACK" prefWidth="250" onAction="#handleBack"/>
+
+        </VBox>
+
+    </VBox>
+
+</StackPane>
