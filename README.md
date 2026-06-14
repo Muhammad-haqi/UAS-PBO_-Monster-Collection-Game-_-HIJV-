@@ -50,5 +50,5 @@ Backend harus berjalan lebih dahulu agar Frontend dapat mengambil data melalui A
 -Klik tombol Run. Jendela permainan Monster Collection Game akan langsung terbuka!
 
 LINK VIDEO YOUTUBE
-https://youtu.be/bw-cRyIoCsc?si=ZXoL1XAlsu5fwjj_
+https://youtu.be/F33VJ2RqwJk?si=fm79nWrqhaCi9nuD
 
