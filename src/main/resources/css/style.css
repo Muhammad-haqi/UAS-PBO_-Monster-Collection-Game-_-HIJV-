@@ -1,0 +1,104 @@
+.root {
+
+    -fx-background-color: linear-gradient(
+            to bottom,
+            #0f172a,
+            #1e293b
+    );
+}
+
+.title-label {
+
+    -fx-text-fill: white;
+
+    -fx-font-size: 32px;
+
+    -fx-font-weight: bold;
+}
+
+.card-title {
+
+    -fx-text-fill: white;
+
+    -fx-font-size: 22px;
+
+    -fx-font-weight: bold;
+}
+
+.label {
+
+    -fx-text-fill: white;
+
+    -fx-font-size: 16px;
+}
+
+.login-card {
+
+    -fx-background-color: #1e293b;
+
+    -fx-background-radius: 20;
+
+    -fx-border-color: #334155;
+
+    -fx-border-width: 2;
+
+    -fx-border-radius: 20;
+}
+
+.text-field,
+.password-field {
+
+    -fx-pref-width: 250;
+
+    -fx-pref-height: 40;
+
+    -fx-font-size: 14px;
+
+    -fx-background-radius: 10;
+}
+
+.button {
+
+    -fx-background-color: #3b82f6;
+
+    -fx-text-fill: white;
+
+    -fx-font-size: 14px;
+
+    -fx-font-weight: bold;
+
+    -fx-background-radius: 10;
+
+    -fx-cursor: hand;
+}
+
+.button:hover {
+
+    -fx-background-color: #2563eb;
+}
+
+.monster-card {
+
+    -fx-background-color: #1e293b;
+
+    -fx-background-radius: 20;
+
+    -fx-border-color: #475569;
+
+    -fx-border-width: 2;
+
+    -fx-border-radius: 20;
+
+    -fx-padding: 20;
+}
+
+.active-monster {
+
+    -fx-border-color: gold;
+
+    -fx-border-width: 4;
+
+    -fx-border-radius: 20;
+
+    -fx-background-radius: 20;
+}
