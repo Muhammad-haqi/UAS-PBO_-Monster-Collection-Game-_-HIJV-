@@ -1,14 +1,14 @@
 target/
-!.mvn/wrapper/maven-wrapper.jar
+!frontend/.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 .kotlin
 
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
+frontend/.idea/modules.xml
+frontend/.idea/jarRepositories.xml
+frontend/.idea/compiler.xml
+frontend/.idea/libraries/
 *.iws
 *.iml
 *.ipr

@@ -1,0 +1,2 @@
+-- Tidak perlu seed user karena register via API
+-- Tabel leaderboard akan otomatis terisi saat user save game

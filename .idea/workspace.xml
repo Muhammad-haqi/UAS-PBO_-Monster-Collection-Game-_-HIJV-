@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1521dfb4-cdca-43c8-a05f-1461c698e4aa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/ApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/ApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/GameData.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/GameData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/MonsterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/MonsterFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/SceneManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/SceneManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/controller/BattleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/controller/BattleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/controller/DashboardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/controller/DashboardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/controller/ExploreController.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/controller/ExploreController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/controller/LeaderboardController.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/controller/LeaderboardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/controller/MonsterCollectionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/controller/MonsterCollectionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/controller/RegisterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/controller/RegisterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/controller/StarterMonsterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/controller/StarterMonsterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/model/EarthGolem.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/model/EarthGolem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/model/FireDragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/model/FireDragon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/model/IcePhoenix.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/model/IcePhoenix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/model/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/model/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/model/NatureBeast.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/model/NatureBeast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/model/ThunderWolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/model/ThunderWolf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/projekgame/model/WaterTurtle.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/com/game/projekgame/model/WaterTurtle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/resources/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/Battle.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/resources/fxml/Battle.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/Dashboard.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/resources/fxml/Dashboard.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/Explore.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/resources/fxml/Explore.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/Leaderboard.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/resources/fxml/Leaderboard.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/Login.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/resources/fxml/Login.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/MonsterCollection.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/resources/fxml/MonsterCollection.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/Register.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/resources/fxml/Register.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/StarterMonster.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main/resources/fxml/StarterMonster.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EyjNACTexqRIg7TSa5XYpRoPL1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/haqyr/Downloads/Projek-Game (2)/Projek-Game",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "build.tools",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\haqyr\Downloads\Projek-Game (2)\Projek-Game\frontend" />
+      <recent name="C:\Users\acer2\IdeaProjects\Projek-Game\src\main\resources\fxml" />
+      <recent name="C:\Users\acer2\IdeaProjects\Projek-Game\src\main\resources" />
+      <recent name="C:\Users\acer2\IdeaProjects\Projek-Game\src\main\resources\com\game\projekgame\fxml" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.game.projekgame.Main" />
+      <module name="Projek-Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.game.projekgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1521dfb4-cdca-43c8-a05f-1461c698e4aa" name="Changes" comment="" />
+      <created>1781157665952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781157665952</updated>
+      <workItem from="1781157667360" duration="1028000" />
+      <workItem from="1781186787704" duration="2040000" />
+      <workItem from="1781189050265" duration="14000000" />
+      <workItem from="1781248168858" duration="10123000" />
+      <workItem from="1781336357869" duration="227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
